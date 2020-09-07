@@ -1,7 +1,7 @@
 {
-  "name": "@mean-expert/loopback-sdk-builder",
+  "name": "Jonibigoud/loopback-sdk-builder",
   "version": "2.3.2",
-  "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack",
+  "description": "Tool for auto-generating Software Development Kits (SDKs) for LoopBack 3",
   "bin": {
     "lb-sdk": "bin/lb-sdk"
   },
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mean-expert-official/loopback-sdk-builder.git"
+    "url": "git@github.com:Jonibigoud/loopback-sdk-builder.git"
   },
   "keywords": [
     "loopback",
